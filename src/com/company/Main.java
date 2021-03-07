@@ -12,7 +12,7 @@ public class Main {
             @Override
             public void run() {
                 MainMenu myGUIform = new MainMenu();
-                myGUIform.setVisible(true);
+                myGUIform.setVisible(true);//sadasdasdasd
             }
         });
 
