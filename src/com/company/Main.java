@@ -11,12 +11,10 @@ public class Main {
         SwingUtilities.invokeLater(new Runnable() {
             @Override
             public void run() {
-                MainMenu myGUIform = new MainMenu();
-<<<<<<< HEAD
+                MainMenu myGUIform = new MainMenu();//changes
+
                 myGUIform.setVisible(true);//sadasdasdasd
-=======
-                myGUIform.setVisible(true);
->>>>>>> 8cc5ae8e82aa307203ce218f4fbc6d5b72a19661
+
             }
         });
 
